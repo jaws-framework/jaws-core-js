@@ -1,2 +1,2 @@
-JAWS-Common: Essential Utilities for your JAWS project
+JAWS-Common: Utilities for JAWS
 =================================
