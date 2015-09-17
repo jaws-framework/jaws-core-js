@@ -11,3 +11,11 @@
 **/.idea
 .DS_Store
 .tmp
+
+# Runtime data
+pids
+logs
+results
+npm-debug.log
+
+node_modules
