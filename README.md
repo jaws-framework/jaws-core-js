@@ -1,2 +1,4 @@
-JAWS-Common: Utilities for JAWS
-=================================
+# JAWS Core for NodeJs
+
+awsm for JAWS core functionality
+
