@@ -10,7 +10,10 @@
   },
   "keywords": [
     "jaws",
-    "awsm"
+    "awsm",
+    "aws-modules",
+    "lambda",
+    "api gateway"
   ],
   "devDependencies": {},
   "dependencies": {
