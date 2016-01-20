@@ -2,7 +2,7 @@
 
 awsm for JAWS core functionality
 
-JAWS has been renamed [Serverless] and everything [moved here].
+**DEPRECATED** JAWS has been renamed [Serverless] and everything [moved here].
 
-[Serverless]: <https://github.com/serverless/serverlesst>
-[moved here]: <https://github.com/serverless/serverlesst>
+[Serverless]: <https://github.com/serverless/serverless>
+[moved here]: <https://github.com/serverless/serverless>
